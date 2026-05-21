@@ -54,7 +54,7 @@ steps:
 
  - name: Build Docker
    run: | 
-     docker build -t acraula1243-hfewe6cgfychbnax.azurecr.io/minha-app:latest .
+     docker build -t acraula123-bffcbtcrc7eef5fc.azurecr.io/minha-app:latest .
 
  - name: Push Docker
    run: |
